@@ -7,5 +7,5 @@
     "config:base"
   ],
   "dependencyDashboard": true,
-  "prHourlyLimit": 0,
+  "prHourlyLimit": 0
 }
